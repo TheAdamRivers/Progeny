@@ -1,0 +1,19 @@
+{
+    "embedding_model": "all-MiniLM-L6-v2",
+    "enable_consolidation": true,
+    "enable_verification": false,
+    "enable_prediction": true,
+    "enable_multi_source": true,
+    "enable_vision": true,
+    "enable_inter_agent": true,
+    "enable_autonomous_curiosity": true,
+    "consolidation_threshold": 0.85,
+    "max_insights": 150,
+    "heartbeat_seconds": 15,
+    "arxiv_enabled": true,
+    "un_data_enabled": false,
+    "adaptive_thresholds": true,
+    "curiosity_threshold": 0.6,
+    "agent_id": "",
+    "agent_name": "Progeny-Alpha"
+}
