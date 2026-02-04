@@ -57,4 +57,8 @@ System behavior is defined in Progeny_config.json. Key parameters include:
 ## Governance and Sovereignty
 The system operates under a set of immutable guidelines to ensure efficiency and autonomy. It performs automated pruning of snapshots every 7 days while preserving the "essence" of its knowledge within the pantheon_archive, maintaining the sovereignty of its learned experience without excessive resource consumption.
 
-## License: Distributed under the MIT License.
+## Credits:
+Created by Adam Rivers @TheAdamRivers | CEO | Synthicsoft Labs| Hello Security vCISO
+
+## License: 
+Distributed under the MIT License.
